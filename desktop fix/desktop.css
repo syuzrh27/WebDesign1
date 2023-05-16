@@ -1,0 +1,428 @@
+.desktop-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop-desktop {
+  width: 100%;
+  height: 1195px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(26, 26, 26, 1);
+}
+.desktop-group11 {
+  top: 0px;
+  left: 0px;
+  width: 1680.46875px;
+  height: 1195px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-group6 {
+  top: 0px;
+  left: 0px;
+  width: 1680px;
+  height: 1195px;
+  position: absolute;
+}
+.desktop-image50762601 {
+  top: 42px;
+  left: 169px;
+  width: 82px;
+  height: 80px;
+  position: absolute;
+}
+.desktop-text {
+  top: 387.44140625px;
+  left: 0px;
+  color: rgba(138, 138, 138, 1);
+  right: 0px;
+  width: 1088px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-navbar {
+  top: 66.5185546875px;
+  left: 571.826171875px;
+  width: 534.482421875px;
+  height: 31.5087890625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-text02 {
+  color: rgba(255, 255, 255, 1);
+  width: 65px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text04 {
+  left: 102.6953125px;
+  color: rgba(138, 138, 138, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text06 {
+  left: 207.724609375px;
+  color: rgba(138, 138, 138, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text08 {
+  left: 312.75390625px;
+  color: rgba(138, 138, 138, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text10 {
+  left: 450.458984375px;
+  color: rgba(138, 138, 138, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-group16 {
+  top: 56px;
+  left: 1427px;
+  width: 146px;
+  height: 52px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-rectangle26 {
+  top: 0px;
+  left: 0px;
+  width: 146px;
+  height: 52px;
+  position: absolute;
+}
+.desktop-text12 {
+  top: 10.5029296875px;
+  left: 11.669921875px;
+  color: rgba(0, 0, 0, 1);
+  width: 123px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-fotokanan {
+  top: 516.9775390625px;
+  left: 1105.1416015625px;
+  width: 438px;
+  height: 552px;
+  position: absolute;
+}
+.desktop-fotokiri {
+  top: 516.9775390625px;
+  left: 136.5380859375px;
+  width: 438px;
+  height: 552px;
+  position: absolute;
+}
+.desktop-scrolldown {
+  top: 517px;
+  left: 753px;
+  width: 175.048828125px;
+  height: 21.005859375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-text14 {
+  left: 0px;
+  color: rgba(138, 138, 138, 1);
+  right: 0px;
+  width: 175px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-fototengah {
+  top: 637.177734375px;
+  left: 633.6767578125px;
+  width: 411.9482421875px;
+  height: 547.3193359375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-tengah {
+  top: 0px;
+  left: 0px;
+  width: 412px;
+  height: 432px;
+  position: absolute;
+}
+.desktop-layerblur {
+  top: 238.06640625px;
+  left: 17.5048828125px;
+  width: 378.10546875px;
+  height: 309.2529296875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(39, 39, 39, 0.5);
+}
+.desktop-group9 {
+  top: 49.755859375px;
+  left: 33.818359375px;
+  width: 310.419921875px;
+  height: 79.005859375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-text16 {
+  top: 58px;
+  left: 48px;
+  color: rgba(138, 138, 138, 1);
+  width: 215px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text18 {
+  color: rgba(255, 255, 255, 1);
+  width: 310px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-playbutton {
+  top: 248.75582885742188px;
+  left: 18.818572998046875px;
+  width: 339.5947265625px;
+  height: 46.2675666809082px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-rectangle31 {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 4px;
+  position: absolute;
+  border-radius: 100px;
+}
+.desktop-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 147px;
+  height: 4px;
+  position: absolute;
+  border-radius: 100px;
+}
+.desktop-text23 {
+  left: 24px;
+  color: rgba(255, 255, 255, 1);
+  width: 93px;
+  bottom: 4px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Black;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-text25 {
+  left: 248.8262939453125px;
+  color: rgba(255, 255, 255, 1);
+  width: 48px;
+  bottom: 3px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Damascus;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-play-button1 {
+  top: 1148px;
+  left: 666px;
+  width: 21px;
+  height: 21px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 50px;
+}
+.desktop-play-button2 {
+  top: 3px;
+  left: 4px;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+}
+.desktop-options-icon {
+  left: 982px;
+  width: 30px;
+  bottom: 28px;
+  height: 20px;
+  position: absolute;
+}
+.desktop-bring-up-icon {
+  top: 546px;
+  left: 0px;
+  right: 0px;
+  width: 24px;
+  height: 24px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+}
+.desktop-waves {
+  top: 1022px;
+  left: 657px;
+  width: 366.3656311035156px;
+  height: 88.1343994140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop-rectangle33 {
+  top: 43px;
+  left: 0px;
+  width: 90px;
+  height: 4px;
+  position: absolute;
+  border-radius: 100px;
+}
+.desktop-rectangle34 {
+  top: 43px;
+  left: 276px;
+  width: 90px;
+  height: 4px;
+  position: absolute;
+  border-radius: 100px;
+}
+.desktop-audiowaves1 {
+  top: 0px;
+  left: 95px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+}
+.desktop-audiowaves2 {
+  top: 0px;
+  left: 182px;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+}
+.desktop-listeningtogoodmusicmakesyourmoodbetter {
+  top: 184px;
+  left: 0px;
+  right: 0px;
+  width: 907px;
+  height: 166px;
+  margin: auto;
+  position: absolute;
+}
